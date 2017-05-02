@@ -21,7 +21,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/wolfjoin)
+* GitHub：[WOLFJOIN](https://github.com/wolfjoin)
 * email：wolfjoin@qq.com
 
 
