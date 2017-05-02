@@ -7,7 +7,7 @@
 
 # Site settings
 title: WOLFJOIN
-brief-intro: Front-end Dev Engineer
+brief-intro: ODOO ERP 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wolfjoin.github.io" # the base hostname & protocol for your site
 
